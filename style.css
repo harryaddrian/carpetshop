@@ -10,3 +10,9 @@
     box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
     padding: 30px;
   }
+
+@media (max-width: 600px){
+    .cr-top {
+        height: 35rem;
+    }
+}
