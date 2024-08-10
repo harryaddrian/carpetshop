@@ -1,0 +1,12 @@
+.cr-top {
+    height:44rem;
+}
+
+.about {
+    font-size: 18px;
+}
+
+.about .container {
+    box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+  }
