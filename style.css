@@ -1,0 +1,30 @@
+.cr-intro {
+    height:44rem;
+}
+
+.cr-jasa {
+    height:30rem;
+}
+
+.produk {
+    height:30rem;
+}
+
+.about {
+    font-size: 18px;
+}
+
+.about .container {
+    box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+  }
+
+@media (max-width: 600px){
+    .cr-top {
+        height: 20rem;
+    }
+}
+
+.img-service {
+    height : 300px;
+}
